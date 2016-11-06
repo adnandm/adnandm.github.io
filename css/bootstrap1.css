@@ -1,0 +1,115 @@
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+  }
+
+h4 {
+	text-align: center;
+	font-style: bold;
+	font-size: 150%;
+}
+h2 {
+	text-align: center;
+	font-style: bold;
+}
+title {
+	font-size: 400%;
+	text-align: center;
+	font-style: bold;
+}
+p {
+	text-align: center;
+	font-style: underline;
+}
+i {
+	text-align: center;
+	vertical-align: center;
+}
+.card {
+  border-color: #ccc;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, .05);
+}
+#contact-title {
+	text-align: left;
+	color: #e16879;
+	font-weight: 300;
+}
+#interests {
+	text-align: left;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+.card-text {
+	text-align: left;
+}
+.contact-text {
+	text-align: left;
+}
+
+.card-block small {
+  float: right;
+}
+.card-footer {
+	text-align: center;
+}
+.skill {
+  color: #222324;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+.skill progress {
+  border-radius: 5px;
+  height: 10px;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+	margin: 0px 0px 8px 45px;
+	
+}
+#hoc, #eating, #got {
+	text-align: left;
+}
+#jcole, #drake {
+	width: 110px;
+	height: 110px;
+	
+}
+#artist-text {
+	text-indent: 48px;
+}
+
+.navbar {
+	background-color: 151515;
+}
+.navbar-brand {
+	font-size: 300%;
+	color: white;
+}
+.nav-link {
+	color: white;
+	font-size: 150%;
+}
+.jumbotron {
+	background-image: url("../img/astronaut.jpg");
+	background-size: cover;
+	color: white;
+	text-align: center;
+	font-size: 300%;
+}
+#videos-title {
+	text-align: left;
+	color: #e16879;
+	font-weight: 300;
+}
